@@ -11,3 +11,5 @@ Refer the work flow diagram for understanding the calcualtion sequence the softw
 
 <img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/c1024ce5-c745-45e8-87b8-53cc570edd6b" />
 
+<img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/5b0c361f-62d1-4a4c-860e-7e20e1648265" />
+
